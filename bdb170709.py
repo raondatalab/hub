@@ -11,7 +11,7 @@ from openpyxl import load_workbook
 # from time import localtime, strftime
 # from selenium.common.exceptions import TimeoutException
 # 깃허브테스트 주석삽입
-
+# 두번째주석삽입적용
 
 # VM 1~5
 vm_no = str(4)
