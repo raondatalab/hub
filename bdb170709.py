@@ -8,8 +8,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from openpyxl import Workbook
 from openpyxl import load_workbook
-from time import localtime, strftime
-from selenium.common.exceptions import TimeoutException
+# from time import localtime, strftime
+# from selenium.common.exceptions import TimeoutException
+# 깃허브테스트 주석삽입
+
 
 # VM 1~5
 vm_no = str(4)
